@@ -1,0 +1,25 @@
+.one{
+    width: 50;
+    height: 50;
+}
+.body{
+    background-color: black;
+}
+.button{
+    width: 300px;
+    height: 30px;
+}
+img{
+    border-radius: 80px;
+    padding-top: 10px;
+}
+.div{
+    background-color: #6f6f6f;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-bottom: 30%;
+    margin-top: 10%;
+}
+.spa{
+    padding-top: 20px;
+}
